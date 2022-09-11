@@ -1,5 +1,10 @@
-const oddishOrEvenish = (num) => num % 2 === 0 ? 'Even' : 'Odd';
+const oddishOrEvenish = (num) => {
+  return num.toString().split('').reduce((prev, curr) => {
+    return +prev + +curr;
+  }) % 2 === 0 ? 'Even' : 'Odd';
+};
 
 
-console.log(oddishOrEvenish(51));
-console.log(oddishOrEvenish(50));
+console.log(oddishOrEvenish(43));
+console.log(oddishOrEvenish(373));
+console.log(oddishOrEvenish(4433));
