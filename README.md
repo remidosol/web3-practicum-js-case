@@ -1,5 +1,5 @@
-# web3-practicum-js-case
-This repo is created for Web 3 Practicum JavaScript case.
+# WEB 3.0 Practicum JavaScript Case
+This repo is created for enrolling Web 3 Practicum and to forward JavaScript case.
 
 I would have been going to done OOP case with TypeScript but I realized that the time is not enough when I've considered the remain time.
 
