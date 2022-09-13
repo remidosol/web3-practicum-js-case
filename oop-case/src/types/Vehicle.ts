@@ -1,12 +1,12 @@
 export enum VehicleTypes {
   AUTOMOBILE = 'Automobile',
-  VAN = 'Van',
+  MINIBUS = 'Minibus',
   BUS = 'Bus',
 }
 
 export enum Tolls {
   AUTOMOBILE = 8.25,
-  VAN = 10.75,
+  MINIBUS = 10.75,
   BUS = 23.25,
 }
 

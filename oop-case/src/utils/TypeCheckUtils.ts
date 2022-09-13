@@ -1,4 +1,4 @@
-import { Automobile, Bus, Van } from '../entities/index'
+import { Automobile, Bus, Minibus } from '../entities/index'
 import { Vehicle, VehicleTypes } from '../types/index'
 
 export class TypeCheckUtils {
@@ -14,9 +14,9 @@ export class TypeCheckUtils {
       _vehicle.typeOfVehicle === VehicleTypes.BUS)
   )
 
-  static isVan = <(_vehicle: Vehicle) => _vehicle is Van>(
+  static isVan = <(_vehicle: Vehicle) => _vehicle is Minibus>(
     ((_vehicle: Vehicle) =>
       'typeOfVehicle' in _vehicle &&
-      _vehicle.typeOfVehicle === VehicleTypes.VAN)
+      _vehicle.typeOfVehicle === VehicleTypes.MINIBUS)
   )
 }

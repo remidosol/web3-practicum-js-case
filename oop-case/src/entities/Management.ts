@@ -37,8 +37,8 @@ export class Management {
           case VehicleTypes.BUS:
             totalBalance += +Tolls.BUS
             break
-          case VehicleTypes.VAN:
-            totalBalance += +Tolls.VAN
+          case VehicleTypes.MINIBUS:
+            totalBalance += +Tolls.MINIBUS
             break
         }
       }

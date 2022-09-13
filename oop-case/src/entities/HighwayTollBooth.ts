@@ -1,5 +1,5 @@
 import { Vehicle, Tolls, RecordType } from '../types/index'
-import { Vehicles, Automobile, Bus, Van } from './index'
+import { Vehicles, Automobile, Bus, Minibus } from './index'
 import { TypeCheckUtils, Logger } from '../utils/index'
 import { readFileSync, writeFileSync } from 'fs'
 import { faker } from '@faker-js/faker'
@@ -74,11 +74,11 @@ class HighwayTollBooth {
         }
       } else if (TypeCheckUtils.isVan(vehicle)) {
         if (user) {
-          if (user.balance >= Tolls.VAN) {
-            user.balance -= Tolls.VAN
-            dataJSON.users[dataJSON.users.indexOf(user)].balance -= Tolls.VAN
+          if (user.balance >= Tolls.MINIBUS) {
+            user.balance -= Tolls.MINIBUS
+            dataJSON.users[dataJSON.users.indexOf(user)].balance -= Tolls.MINIBUS
 
-            const newRecord = new Van(
+            const newRecord = new Minibus(
               user.hgsNo,
               user.firstName,
               user.lastName,

@@ -1,6 +1,6 @@
 export { Vehicles } from './Vehicle'
 export { Automobile } from './Automobile'
 export { Bus } from './Bus'
-export { Van } from './Van'
+export { Minibus } from './Minibus'
 export { applyToll } from './HighwayTollBooth'
 export { Management } from './Management'

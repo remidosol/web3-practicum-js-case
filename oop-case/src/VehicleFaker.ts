@@ -9,7 +9,7 @@ const { date, datatype, random, name } = faker
 const vehicleTypes = [
   VehicleTypes.AUTOMOBILE,
   VehicleTypes.BUS,
-  VehicleTypes.VAN,
+  VehicleTypes.MINIBUS,
 ]
 
 const dummy: RecordType = {
@@ -43,8 +43,8 @@ try {
       case VehicleTypes.BUS:
         newBalance = user.balance - +Tolls.BUS
         break
-      case VehicleTypes.VAN:
-        newBalance = user.balance - +Tolls.VAN
+      case VehicleTypes.MINIBUS:
+        newBalance = user.balance - +Tolls.MINIBUS
         break
     }
 
