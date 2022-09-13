@@ -1,0 +1,381 @@
+{
+    "records": [
+        {
+            "id": "dfedc5d5-d4ec-4054-8543-9faec5f9b6da",
+            "hgsNo": "2253480409",
+            "firstName": "Leland",
+            "lastName": "Braun",
+            "balance": 44.75,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-26T19:53:17.381Z"
+        },
+        {
+            "id": "17d02348-b347-4895-8943-31683af1d220",
+            "hgsNo": "0145372750",
+            "firstName": "Claudia",
+            "lastName": "Okuneva",
+            "balance": 23.75,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-21T19:48:25.020Z"
+        },
+        {
+            "id": "64dafd58-b05a-4021-9794-5a6a2ad12e99",
+            "hgsNo": "9712563743",
+            "firstName": "Nicole",
+            "lastName": "Lind",
+            "balance": 90.75,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-28T02:31:58.736Z"
+        },
+        {
+            "id": "c61e3bc5-33a8-404a-bf5c-2c412b298ced",
+            "hgsNo": "7759202893",
+            "firstName": "Opal",
+            "lastName": "Farrell",
+            "balance": 43.75,
+            "typeOfVehicle": "Bus",
+            "date": "2022-08-27T04:08:12.129Z"
+        },
+        {
+            "id": "92d7d4dd-a4d9-4c77-9bae-b495ea4f932c",
+            "hgsNo": "1112314401",
+            "firstName": "Wade",
+            "lastName": "Smitham",
+            "balance": 39.75,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-25T18:41:19.897Z"
+        },
+        {
+            "id": "8b8f2217-e276-4c78-a800-260a8d720177",
+            "hgsNo": "0710041937",
+            "firstName": "Vickie",
+            "lastName": "Grant",
+            "balance": 30.75,
+            "typeOfVehicle": "Bus",
+            "date": "2022-08-20T17:15:00.569Z"
+        },
+        {
+            "id": "5e4e6c82-59a0-4c5f-9ae1-dc3b7cb3f2a9",
+            "hgsNo": "7442845398",
+            "firstName": "Regina",
+            "lastName": "Gleichner",
+            "balance": 54.75,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-24T03:17:03.541Z"
+        },
+        {
+            "id": "da105530-4553-441a-8bef-2892efc0f893",
+            "hgsNo": "1112314401",
+            "firstName": "Wade",
+            "lastName": "Smitham",
+            "balance": 31.5,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-20T12:09:24.136Z"
+        },
+        {
+            "id": "71695de4-2ad5-420f-aff2-32c74fbe010a",
+            "hgsNo": "1112314401",
+            "firstName": "Wade",
+            "lastName": "Smitham",
+            "balance": 23.25,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-28T11:06:40.847Z"
+        },
+        {
+            "id": "3cf43537-79c3-43ff-b4b5-a0114fd2fd33",
+            "hgsNo": "4355874247",
+            "firstName": "Phillip",
+            "lastName": "Friesen",
+            "balance": 68.75,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-30T10:35:15.130Z"
+        },
+        {
+            "id": "c68f8b89-75a9-4bd5-aba9-73a5be38034a",
+            "hgsNo": "0123780766",
+            "firstName": "Wendell",
+            "lastName": "Blanda",
+            "balance": 39.75,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-31T04:16:01.396Z"
+        },
+        {
+            "id": "f0094b2d-0b9c-456c-9caa-1ca337313124",
+            "hgsNo": "1112314401",
+            "firstName": "Wade",
+            "lastName": "Smitham",
+            "balance": 15,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-27T00:32:18.276Z"
+        },
+        {
+            "id": "826d8c05-3836-40af-8afe-585d37d669e2",
+            "hgsNo": "0145372750",
+            "firstName": "Claudia",
+            "lastName": "Okuneva",
+            "balance": 15.5,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-26T15:28:49.381Z"
+        },
+        {
+            "id": "1b6c7ce5-0f4c-427e-a4e5-a78232f59a02",
+            "hgsNo": "4355874247",
+            "firstName": "Phillip",
+            "lastName": "Friesen",
+            "balance": 60.5,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-28T21:35:36.910Z"
+        },
+        {
+            "id": "9c623f30-77dc-4bae-a975-a82bfc6fc992",
+            "hgsNo": "9712563743",
+            "firstName": "Nicole",
+            "lastName": "Lind",
+            "balance": 82.5,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-29T16:10:02.225Z"
+        },
+        {
+            "id": "83cfeacc-5f99-4d39-b031-e098066d4d80",
+            "hgsNo": "0710041937",
+            "firstName": "Vickie",
+            "lastName": "Grant",
+            "balance": 7.5,
+            "typeOfVehicle": "Bus",
+            "date": "2022-08-22T21:31:29.457Z"
+        },
+        {
+            "id": "644d9488-a3fd-4342-8524-e56fb0b366e5",
+            "hgsNo": "0061120633",
+            "firstName": "Floyd",
+            "lastName": "Dicki",
+            "balance": 70.75,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-24T05:21:40.038Z"
+        },
+        {
+            "id": "b1ef4b9f-1c38-4727-a551-ed235432c93c",
+            "hgsNo": "7759202893",
+            "firstName": "Opal",
+            "lastName": "Farrell",
+            "balance": 20.5,
+            "typeOfVehicle": "Bus",
+            "date": "2022-08-31T06:46:32.718Z"
+        },
+        {
+            "id": "4991a634-438f-4c1b-aca6-09fd8dbf46b0",
+            "hgsNo": "1112314401",
+            "firstName": "Wade",
+            "lastName": "Smitham",
+            "balance": 6.75,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-29T13:22:02.889Z"
+        },
+        {
+            "id": "5567eab1-d2a5-4a61-8b6d-20004d36ec13",
+            "hgsNo": "2253480409",
+            "firstName": "Leland",
+            "lastName": "Braun",
+            "balance": 36.5,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-30T17:20:48.239Z"
+        },
+        {
+            "id": "c6918fc0-4db4-414f-bd8c-307e85680f05",
+            "hgsNo": "0061120633",
+            "firstName": "Floyd",
+            "lastName": "Dicki",
+            "balance": 62.5,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-20T01:52:33.308Z"
+        },
+        {
+            "id": "b255b345-abf1-4bbf-a2a4-7856f1dadeb4",
+            "hgsNo": "0061120633",
+            "firstName": "Floyd",
+            "lastName": "Dicki",
+            "balance": 54.25,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-26T02:29:07.503Z"
+        },
+        {
+            "id": "a87fdabc-92f6-472b-a0c3-145d6a8be900",
+            "hgsNo": "0123780766",
+            "firstName": "Wendell",
+            "lastName": "Blanda",
+            "balance": 31.5,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-27T06:10:08.351Z"
+        },
+        {
+            "id": "4995be84-2e03-4487-871e-a7eb2f061b32",
+            "hgsNo": "9712563743",
+            "firstName": "Nicole",
+            "lastName": "Lind",
+            "balance": 74.25,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-22T03:36:47.896Z"
+        },
+        {
+            "id": "4c2b615b-2023-42ed-956a-31e577b4772e",
+            "hgsNo": "0123780766",
+            "firstName": "Wendell",
+            "lastName": "Blanda",
+            "balance": 23.25,
+            "typeOfVehicle": "Automobile",
+            "date": "2022-08-29T07:08:00.657Z"
+        },
+        {
+            "hgsNo": "1112314401",
+            "firstName": "Wade",
+            "lastName": "Smitham",
+            "typeOfVehicle": "Automobile",
+            "date": "2022-09-13T10:49:35.776Z",
+            "balance": 2.25,
+            "id": "aa1c4270-6e29-45fd-95a3-1cb942f4c7f8"
+        },
+        {
+            "hgsNo": "1112314401",
+            "firstName": "Wade",
+            "lastName": "Smitham",
+            "typeOfVehicle": "Automobile",
+            "date": "2022-09-13T10:50:40.231Z",
+            "balance": 5.75,
+            "id": "bb61ce3b-83a5-4eb7-8b6f-952cfadf9528"
+        },
+        {
+            "hgsNo": "1112314401",
+            "firstName": "Wade",
+            "lastName": "Smitham",
+            "typeOfVehicle": "Automobile",
+            "date": "2022-09-13T10:51:37.620Z",
+            "balance": 39.25,
+            "id": "fadb3a09-b3a6-41cf-baa5-980f08290fb6"
+        },
+        {
+            "hgsNo": "1112314401",
+            "firstName": "Wade",
+            "lastName": "Smitham",
+            "typeOfVehicle": "Automobile",
+            "date": "2022-09-13T10:53:23.464Z",
+            "balance": 22.75,
+            "id": "f61fc9ca-2ed0-4549-80bf-73fd2ad186af"
+        },
+        {
+            "hgsNo": "1112314401",
+            "firstName": "Wade",
+            "lastName": "Smitham",
+            "typeOfVehicle": "Automobile",
+            "date": "2022-09-13T10:53:27.943Z",
+            "balance": 6.25,
+            "id": "55b19047-c3cf-477a-a7e3-6ab068e80048"
+        }
+    ],
+    "users": [
+        {
+            "hgsNo": "3278275787",
+            "firstName": "Delores",
+            "lastName": "Kuhn",
+            "balance": 66,
+            "typeOfVehicle": "Bus"
+        },
+        {
+            "hgsNo": "7442845398",
+            "firstName": "Regina",
+            "lastName": "Gleichner",
+            "balance": 54.75,
+            "typeOfVehicle": "Automobile"
+        },
+        {
+            "hgsNo": "4355874247",
+            "firstName": "Phillip",
+            "lastName": "Friesen",
+            "balance": 60.5,
+            "typeOfVehicle": "Automobile"
+        },
+        {
+            "hgsNo": "9475100656",
+            "firstName": "Jimmy",
+            "lastName": "Koepp",
+            "balance": 11,
+            "typeOfVehicle": "Automobile"
+        },
+        {
+            "hgsNo": "7759202893",
+            "firstName": "Opal",
+            "lastName": "Farrell",
+            "balance": 20.5,
+            "typeOfVehicle": "Bus"
+        },
+        {
+            "hgsNo": "2253480409",
+            "firstName": "Leland",
+            "lastName": "Braun",
+            "balance": 36.5,
+            "typeOfVehicle": "Automobile"
+        },
+        {
+            "hgsNo": "0061120633",
+            "firstName": "Floyd",
+            "lastName": "Dicki",
+            "balance": 54.25,
+            "typeOfVehicle": "Automobile"
+        },
+        {
+            "hgsNo": "8020894890",
+            "firstName": "Bruce",
+            "lastName": "Larkin",
+            "balance": 69,
+            "typeOfVehicle": "Bus"
+        },
+        {
+            "hgsNo": "5285297622",
+            "firstName": "Cameron",
+            "lastName": "Luettgen",
+            "balance": 46,
+            "typeOfVehicle": "Van"
+        },
+        {
+            "hgsNo": "8329388651",
+            "firstName": "Taylor",
+            "lastName": "Runte",
+            "balance": 48,
+            "typeOfVehicle": "Bus"
+        },
+        {
+            "hgsNo": "0710041937",
+            "firstName": "Vickie",
+            "lastName": "Grant",
+            "balance": 7.5,
+            "typeOfVehicle": "Bus"
+        },
+        {
+            "hgsNo": "1112314401",
+            "firstName": "Wade",
+            "lastName": "Smitham",
+            "balance": 65.25,
+            "typeOfVehicle": "Automobile"
+        },
+        {
+            "hgsNo": "0123780766",
+            "firstName": "Wendell",
+            "lastName": "Blanda",
+            "balance": 23.25,
+            "typeOfVehicle": "Automobile"
+        },
+        {
+            "hgsNo": "9712563743",
+            "firstName": "Nicole",
+            "lastName": "Lind",
+            "balance": 74.25,
+            "typeOfVehicle": "Automobile"
+        },
+        {
+            "hgsNo": "0145372750",
+            "firstName": "Claudia",
+            "lastName": "Okuneva",
+            "balance": 15.5,
+            "typeOfVehicle": "Automobile"
+        }
+    ]
+}
