@@ -1,4 +1,4 @@
-# WEB 3.0 Practicum JavaScript Case
+# WEB 3.0 Practicum OOP Case
 This repo is created for enrolling Web 3 Practicum and to forward OOP case.
 
 ## Case
